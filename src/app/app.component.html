@@ -4,8 +4,8 @@
     Nature's Palette file Uploading submodule
   </h1>
   <label for="fileupload">Image Upload</label>
-  <input type="file"  name="fileupload" id="imageUpload" class="form-control" required/>
-  <a class="btn btn-primary text-white mt-1" (click)="fileEvent($event)">Upload</a>
+  <input type="file" (change)="fileEvent($event)"  name="fileupload" id="imageUpload" class="form-control" required/>
+  <!-- <a class="btn btn-primary text-white mt-1" >Upload</a> -->
 </div>
 
 
