@@ -1,6 +1,6 @@
 # NaturesPalette
 Developed for course COMP - 6905 MUN
-#Status
+# Status
 - Working on file uploading module
-#Completed Modules
+# Completed Modules
 -
