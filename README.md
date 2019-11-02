@@ -1,4 +1,4 @@
-# NaturesPalette
+# Natures Palette Version 0.1
 Developed for course COMP - 6905 MUN. 
 # Test link 
 
@@ -7,3 +7,4 @@ Developed for course COMP - 6905 MUN.
 - ~Working on file uploading module~
 # Completed Modules
 - File Uploading Module Done.
+- Started new Angular UI Project.
